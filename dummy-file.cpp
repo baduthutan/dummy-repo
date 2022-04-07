@@ -5,5 +5,6 @@ int main(){
 	scanf("%d",&a);
 	printf("%d",a);
 //	tes
+	printf("ini coba coba");
 	return 0;
 }
